@@ -1,0 +1,1 @@
+I:\The Grand Lexicon\Drive1\Converter\Converter\Converter.UWP\Converter.UWP.csproj;x86

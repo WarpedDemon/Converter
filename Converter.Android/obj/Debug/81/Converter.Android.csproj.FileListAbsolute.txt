@@ -1,0 +1,4 @@
+I:\The Grand Lexicon\Drive1\Converter\Converter\Converter.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+I:\The Grand Lexicon\Drive1\Converter\Converter\Converter.Android\obj\Debug\81\Converter.Android.csprojAssemblyReference.cache
+I:\The Grand Lexicon\Drive1\Converter\Converter\Converter.Android\obj\Debug\81\libraryimports.cache.stamp
+I:\The Grand Lexicon\Drive1\Converter\Converter\Converter.Android\obj\Debug\81\res.flag

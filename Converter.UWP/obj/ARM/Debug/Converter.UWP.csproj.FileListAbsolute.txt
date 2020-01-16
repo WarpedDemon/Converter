@@ -1,0 +1,8 @@
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\App.g.i.cs
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\App.g.cs
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\MainPage.g.i.cs
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\MainPage.g.cs
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\App.xaml
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\MainPage.xaml
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\App.xbf
+F:\Converter\Converter\Converter.UWP\obj\ARM\Debug\MainPage.xbf
